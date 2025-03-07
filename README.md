@@ -33,7 +33,7 @@ This project implements a secure and efficient e-authentication system using Jav
 **Setup Instructions:**  
 1. Clone the repository:  
    ```bash  
-   git clone <repository-url>  
+   git clone <https://github.com/SameepGirdher/EAuthentication>  
    ```  
 2. Set up a SQL database and configure JDBC connection details in the project.  
 3. Configure email settings in the `application.properties` file (e.g., SMTP details).  
